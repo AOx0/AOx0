@@ -1,4 +1,5 @@
-### Hi there 👋
+### Leanring at my spare time. One day I'll study Computer Science  :'D
+
 
 <!--
 **AOx0/AOx0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
