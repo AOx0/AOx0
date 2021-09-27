@@ -1,6 +1,12 @@
 ### 
 
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=aox0&show_icons=true&locale=en" alt="aox0" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aox0&" alt="aox0" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aox0&show_icons=true&locale=en&layout=compact" alt="aox0" />
+
 <!--
 **AOx0/AOx0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
