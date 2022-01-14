@@ -1,4 +1,5 @@
 
+<p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=AOx0&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" align="center" /> </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aox0&show_icons=true&theme=github_dark&include_all_commits=true" align="center" /> </p>
 
