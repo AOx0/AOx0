@@ -1,6 +1,52 @@
-![AOx0's Stats](https://github-readme-stats.vercel.app/api?username=AOx0&theme=default&show_icons=true&hide_border=true&count_private=true)
+<div>
 
-![AOx0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AOx0&theme=default&hide_border=true)
+# Hey, I'm AOx0
+
+
+<a href="https://github.com/AOx0">
+<img
+  src="https://github-readme-stats.vercel.app/api?username=AOx0&theme=default&show_icons=true&hide_border=true&count_private=true"
+  title="AOx0 stats"
+  align="right"
+  width="60%"
+/>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=AOx0&theme=default&hide_border=true"
+  title="AOx0 stats"
+  align="right"
+  width="60%"
+/>
+</a>
+
+Student at the Panamerican University
+  
+I like compiled programming languajes.
+
+### Interested in:
+  * Cybersecurity
+  * Backend
+  * Computers
+  
+### Good at:
+  * Nothing :c 
+  
+### Most experienced in:
+  * Python
+  * Rust
+  * Swift
+  * C/C++
+  * C#
+
+
+
+### More information
+
+- **Homepage**: <https://aoxo.me/>
+- **Twitter**: [@AlecsOsornio](https://twitter.com/AlecsOsornio)
+
+</div>
+
+</br></br></br>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AOx0&theme=default&show_icons=true&hide_border=true&layout=compact" align="center" /> </p>
 
