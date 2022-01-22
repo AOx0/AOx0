@@ -68,6 +68,7 @@ I like compiled programming languajes.
 </a>
 </p>
 
+</br></br></br>
 <p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=aox0&bg_color=ffffff&color=000000&line=fd8c1b&point=03d3d&area=false&hide_border=true" align="center" /> </p>
 
 <!--
