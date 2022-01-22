@@ -1,3 +1,16 @@
+![AOx0's Stats](https://github-readme-stats.vercel.app/api?username=AOx0&theme=default&show_icons=true&hide_border=true&count_private=true)
+
+![AOx0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AOx0&theme=default&hide_border=true)
+
+![AOx0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AOx0&theme=default&show_icons=true&hide_border=true&layout=compact)
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/AOx0/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=classic)](https://githubtrends.io)
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/AOx0/langs?time_range=one_year&include_private=True&theme=classic)](https://githubtrends.io)
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/AOx0/repos?time_range=one_year&include_private=True&theme=classic)](https://githubtrends.io)
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/AOx0/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=classic)](https://githubtrends.io)
 
 
 <p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=aox0&bg_color=0d1117&color=ffffff&line=31d32b&point=ffffff&area=true&hide_border=true" align="center" /> </p>
