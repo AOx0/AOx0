@@ -2,7 +2,6 @@
 
 # Hey, I'm AOx0
 
-
 <a href="https://github.com/AOx0">
 <img
   src="https://github-readme-stats.vercel.app/api?username=AOx0&theme=default&show_icons=true&hide_border=true&count_private=true"
@@ -19,25 +18,26 @@
 </a>
 
 Student at the Panamerican University
-  
+
 I like compiled programming languajes.
 
 ### Interested in:
-  * Cybersecurity
-  * Backend
-  * Computers
-  
+
+- Cybersecurity
+- Backend
+- Computers
+
 ### Good at:
-  * Nothing :c 
-  
+
+- Nothing :c
+
 ### Most experienced in:
-  * Python
-  * Rust
-  * Swift
-  * C/C++
-  * C#
 
-
+- Python
+- Rust
+- Swift
+- C/C++
+- C#
 
 ### More information
 
@@ -69,6 +69,7 @@ I like compiled programming languajes.
 </p>
 
 </br></br></br>
+
 <p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=aox0&bg_color=ffffff&color=000000&line=fd8c1b&point=03d3d&area=false&hide_border=true" align="center" /> </p>
 
 <!--
