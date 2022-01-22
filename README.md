@@ -12,6 +12,31 @@
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/AOx0/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=classic)](https://githubtrends.io)
 
+<link rel="stylesheet" href="./assets/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="./assets/css/styles.css">
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <p>Paragraph</p>
+        </div>
+        <div class="col-md-6">
+            <p>Paragraph</p>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <p>Paragraph</p>
+        </div>
+        <div class="col-md-6">
+            <p>Paragraph</p>
+        </div>
+    </div>
+</div>
+
+<script src="./assets/bootstrap/js/bootstrap.min.js"></script>
 
 <p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=aox0&bg_color=0d1117&color=ffffff&line=31d32b&point=ffffff&area=true&hide_border=true" align="center" /> </p>
 
