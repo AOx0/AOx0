@@ -2,49 +2,26 @@
 
 ![AOx0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AOx0&theme=default&hide_border=true)
 
-![AOx0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AOx0&theme=default&show_icons=true&hide_border=true&layout=compact)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AOx0&theme=default&show_icons=true&hide_border=true&layout=compact" align="center" /> </p>
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/AOx0/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=classic)](https://githubtrends.io)
+<p align="center">
+<a href="">
+  <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/langs?time_range=one_year&include_private=True&theme=classic" />
+</a>
+<a href="">
+  <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=classic" />
+</a>
+</p>
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/AOx0/langs?time_range=one_year&include_private=True&theme=classic)](https://githubtrends.io)
+<p align="center">
+<a href="">
+  <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/repos?time_range=one_year&include_private=True&theme=classic" />
+</a>
+<a href="">
+  <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=classic" />
+</a>
+</p>
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/AOx0/repos?time_range=one_year&include_private=True&theme=classic)](https://githubtrends.io)
-
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/AOx0/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=classic)](https://githubtrends.io)
-
-<link rel="stylesheet" href="./assets/bootstrap/css/bootstrap.min.css">
-<link rel="stylesheet" href="./assets/css/styles.css">
-
-<div class="container">
-    <div class="row">
-        <div class="col-md-6">
-            <p>Paragraph</p>
-        </div>
-        <div class="col-md-6">
-            <p>Paragraph</p>
-        </div>
-    </div>
-</div>
-<div class="container">
-    <div class="row">
-        <div class="col-md-6">
-            <p>Paragraph</p>
-        </div>
-        <div class="col-md-6">
-            <p>Paragraph</p>
-        </div>
-    </div>
-</div>
-
-<script src="./assets/bootstrap/js/bootstrap.min.js"></script>
-
-<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=aox0&bg_color=0d1117&color=ffffff&line=31d32b&point=ffffff&area=true&hide_border=true" align="center" /> </p>
-
-<p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=AOx0&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" align="center" /> </p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aox0&show_icons=true&theme=github_dark&include_all_commits=true&hide_border=true" align="center" /> </p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aox0&layout=compact&theme=github_dark&hide_border=true" align="center" /> </p>
 <!--
 **AOx0/AOx0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
