@@ -1,12 +1,76 @@
+<div>
+
+# Hey, I'm AOx0
 
 
-<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=aox0&bg_color=0d1117&color=ffffff&line=31d32b&point=ffffff&area=true&hide_border=true" align="center" /> </p>
+<a href="https://github.com/AOx0">
+<img
+  src="https://github-readme-stats.vercel.app/api?username=AOx0&theme=default&show_icons=true&hide_border=true&count_private=true"
+  title="AOx0 stats"
+  align="right"
+  width="60%"
+/>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=AOx0&theme=default&hide_border=true"
+  title="AOx0 stats"
+  align="right"
+  width="60%"
+/>
+</a>
 
-<p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=AOx0&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" align="center" /> </p>
+Student at the Panamerican University
+  
+I like compiled programming languajes.
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aox0&show_icons=true&theme=github_dark&include_all_commits=true&hide_border=true" align="center" /> </p>
+### Interested in:
+  * Cybersecurity
+  * Backend
+  * Computers
+  
+### Good at:
+  * Nothing :c 
+  
+### Most experienced in:
+  * Python
+  * Rust
+  * Swift
+  * C/C++
+  * C#
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aox0&layout=compact&theme=github_dark&hide_border=true" align="center" /> </p>
+
+
+### More information
+
+- **Homepage**: <https://aoxo.me/>
+- **Twitter**: [@AlecsOsornio](https://twitter.com/AlecsOsornio)
+
+</div>
+
+</br></br></br>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AOx0&theme=default&show_icons=true&hide_border=true&layout=compact" align="center" /> </p>
+
+<p align="center">
+<a href="">
+  <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/langs?time_range=one_year&include_private=True&theme=classic" />
+</a>
+<a href="">
+  <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=classic" />
+</a>
+</p>
+
+<p align="center">
+<a href="">
+  <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/repos?time_range=one_year&include_private=True&theme=classic" />
+</a>
+<a href="">
+  <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=classic" />
+</a>
+</p>
+
+</br></br></br>
+<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=aox0&bg_color=ffffff&color=000000&line=fd8c1b&point=03d3d&area=false&hide_border=true" align="center" /> </p>
+
 <!--
 **AOx0/AOx0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
