@@ -26,6 +26,7 @@ I like compiled programming languajes.
   * Cybersecurity
   * Backend
   * Computers
+  * Math
   
 ### Good at:
   * Nothing :c 
@@ -36,6 +37,7 @@ I like compiled programming languajes.
   * Swift
   * C/C++
   * C#
+  * Mathematica
 
 
 
