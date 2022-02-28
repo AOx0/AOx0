@@ -43,7 +43,8 @@ I like compiled programming languajes.
 
 ### More information
 
-- **Homepage**: <https://aoxo.me> (Mirror: <https://aox0.github.io>)
+- **Homepage**: <https://aoxo.me> (almost always down since I don't have a dedicated server)
+- **Homepage Mirror**: <https://aox0.github.io>
 - **Twitter**: [@AlecsOsornio](https://twitter.com/AlecsOsornio)
 
 </div>
