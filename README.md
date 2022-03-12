@@ -54,19 +54,19 @@ I like compiled programming languajes.
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AOx0&theme=default&show_icons=true&hide_border=true&layout=compact" align="center" /> </p>
 
 <p align="center">
-<a href="https://api.githubtrends.io">
+<a href="https://www.githubtrends.io">
   <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/langs?time_range=one_year&include_private=True&theme=classic" />
 </a>
-<a href="https://api.githubtrends.io">
+<a href="https://www.githubtrends.io">
   <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=classic" />
 </a>
 </p>
 
 <p align="center">
-<a href="https://api.githubtrends.io">
+<a href="https://www.githubtrends.io">
   <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/repos?time_range=one_year&include_private=True&theme=classic" />
 </a>
-<a href="https://api.githubtrends.io">
+<a href="https://www.githubtrends.io">
   <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=classic" />
 </a>
 </p>
