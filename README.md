@@ -44,7 +44,6 @@ I like compiled programming languajes.
 ### More information
 
 - **Homepage**: <https://aoxo.me>
-- **Homepage Mirror**: <https://aox0.github.io>
 - **Twitter**: [@AlecsOsornio](https://twitter.com/AlecsOsornio)
 - **LinkedIn**: [Alejandro Osornio](https://www.linkedin.com/in/aox0)
 
