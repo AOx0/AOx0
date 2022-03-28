@@ -48,7 +48,7 @@ I like compiled programming languajes.
 - **Twitter**: [@AlecsOsornio](https://twitter.com/AlecsOsornio)
 - **LinkedIn**: [Alejandro Osornio](https://www.linkedin.com/in/aox0)
 
-### Projects lists by subject
+### Projects by subject
 
 - **Backend**: <https://github.com/stars/AOx0/lists/backend>
 - **Animations with manim**: <https://github.com/stars/AOx0/lists/manim>
