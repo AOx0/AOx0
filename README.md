@@ -58,6 +58,8 @@ I like compiled programming languajes.
 </div>
 
 </br></br></br>
+  
+![](https://hit.yhype.me/github/profile?user_id=50227494)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AOx0&theme=default&show_icons=true&hide_border=true&layout=compact" align="center" /> </p>
 
