@@ -40,7 +40,6 @@ I like compiled programming languajes.
   * Mathematica
 
 
-
 ### More information
 
 - **Homepage**: <https://aoxo.me>
@@ -49,39 +48,70 @@ I like compiled programming languajes.
 
 ### Projects by subject
 
-- **Backend**: <https://github.com/stars/AOx0/lists/backend>
-- **Animations with manim**: <https://github.com/stars/AOx0/lists/manim>
-- **Data Related**: <https://github.com/stars/AOx0/lists/data-science>
-- **Various school projects:** <https://github.com/stars/AOx0/lists/school-projects>
-- **Security**: <https://github.com/stars/AOx0/lists/security>
-  
+<p align="center">
+This are links to <i>"stared repos lists"</i> with repositories of my own:
+</p>
+<p align="center">
+  <a href="https://github.com/stars/AOx0/lists/backend">
+  <img align="center" src="https://user-images.githubusercontent.com/50227494/161587193-713af6bc-b945-41c5-95e8-c7d033b43ad3.svg" />
+  </a>
+  &nbsp
+  <a href="https://github.com/stars/AOx0/lists/manim">
+  <img align="center" src="https://user-images.githubusercontent.com/50227494/161587497-c48206e0-9a8f-4687-b06b-f8f5dbb789f6.svg" />
+  </a>
+  &nbsp
+  <a href="https://github.com/stars/AOx0/lists/data-science">
+  <img align="center" src="https://user-images.githubusercontent.com/50227494/161587489-e64710ce-f18b-40ad-aeb4-a5d0e5abfd2d.svg" />
+  </a>
+  &nbsp
+  <a href="https://github.com/stars/AOx0/lists/school-projects">
+  <img align="center" src="https://user-images.githubusercontent.com/50227494/161587476-ce415344-eff3-497b-8dc8-584910b5a536.svg" />
+  </a>
+  &nbsp
+  <a href="https://github.com/stars/AOx0/lists/security">
+  <img align="center" src="https://user-images.githubusercontent.com/50227494/161587468-0a2cd941-5ed9-4fa9-97f9-c59e540413a2.svg" />
+  </a>
+</p>
+ 
 </div>
 
-</br></br></br>
-  
 ![](https://hit.yhype.me/github/profile?user_id=50227494)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AOx0&theme=default&show_icons=true&hide_border=true&layout=compact" align="center" /> </p>
+### Most used Languages
 
 <p align="center">
-<a href="https://www.githubtrends.io">
-  <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/langs?time_range=one_year&include_private=True&theme=classic" />
-</a>
-<a href="https://www.githubtrends.io">
-  <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=classic" />
-</a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AOx0&theme=default&show_icons=true&hide_border=true&layout=compact" align="center" />
+  &nbsp
+  <img src="https://api.githubtrends.io/user/svg/AOx0/langs?time_range=one_year&include_private=True&compact=True&loc_metric=changed&theme=classic" align="center" />
+  &nbsp
+  <img src="https://api.githubtrends.io/user/svg/AOx0/langs?time_range=one_month&include_private=True&loc_metric=changed&compact=True&theme=classic" align="center" />
 </p>
 
-<p align="center">
-<a href="https://www.githubtrends.io">
-  <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/repos?time_range=one_year&include_private=True&theme=classic" />
-</a>
-<a href="https://www.githubtrends.io">
-  <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=classic" />
-</a>
-</p>
+  <details> 
+    <summary align="center"><b><i>My Last Languages Year Details</i></b></h3></summary>
+  </br>
+  <p align="center">
+  <a href="https://www.githubtrends.io">
+    <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/langs?time_range=one_year&include_private=True&theme=classic" />
+  </a>
+  <a href="https://www.githubtrends.io">
+    <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=classic" />
+  </a>
+  </p>
 
-</br></br></br>
+
+  <p align="center">
+  <a href="https://www.githubtrends.io">
+    <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/repos?time_range=one_year&include_private=True&theme=classic" />
+  </a>
+  <a href="https://www.githubtrends.io">
+    <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=classic" />
+  </a>
+  </p>
+</details>
+
+### Last month contribuition graph
+
 <p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=aox0&bg_color=ffffff&color=000000&line=fd8c1b&point=03d3d&area=false&hide_border=true" align="center" /> </p>
 
 <!--
