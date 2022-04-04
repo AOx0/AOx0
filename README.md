@@ -82,7 +82,7 @@ This are links to <i>"stared repos lists"</i> with repositories of my own:
 ### Most used Languages
 
   <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AOx0&theme=default&show_icons=true&hide_border=true&layout=compact" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AOx0&theme=default&show_icons=true&layout=compact" align="center" />
 </p>
   
 <p align="center">
