@@ -81,9 +81,11 @@ This are links to <i>"stared repos lists"</i> with repositories of my own:
 
 ### Most used Languages
 
-<p align="center">
+  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AOx0&theme=default&show_icons=true&hide_border=true&layout=compact" align="center" />
-  &nbsp
+</p>
+  
+<p align="center">
   <img src="https://api.githubtrends.io/user/svg/AOx0/langs?time_range=one_year&include_private=True&compact=True&loc_metric=changed&theme=classic" align="center" />
   &nbsp
   <img src="https://api.githubtrends.io/user/svg/AOx0/langs?time_range=one_month&include_private=True&loc_metric=changed&compact=True&theme=classic" align="center" />
