@@ -63,6 +63,8 @@ This are links to <i>"stared repos lists"</i> with repositories of my own:
   <a href="https://github.com/stars/AOx0/lists/data-science">
   <img align="center" src="https://user-images.githubusercontent.com/50227494/161587489-e64710ce-f18b-40ad-aeb4-a5d0e5abfd2d.svg" />
   </a>
+</p>
+<p align="center">
   &nbsp
   <a href="https://github.com/stars/AOx0/lists/school-projects">
   <img align="center" src="https://user-images.githubusercontent.com/50227494/161587476-ce415344-eff3-497b-8dc8-584910b5a536.svg" />
