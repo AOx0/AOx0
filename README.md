@@ -90,33 +90,64 @@ This are links to <i>"stared repos lists"</i> with repositories of my own:
   &nbsp
   <img src="https://api.githubtrends.io/user/svg/AOx0/langs?time_range=one_month&include_private=True&loc_metric=changed&compact=True&theme=classic" align="center" />
 </p>
-
-  <details> 
-    <summary align="center"><b><i>My Last Languages Year Details</i></b></h3></summary>
+  
+<details> 
+  <summary align="center"><b><i>Full Last Month Details</i></b></h3></summary>
   </br>
   <p align="center">
-  <a href="https://www.githubtrends.io">
-    <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/langs?time_range=one_year&include_private=True&theme=classic" />
-  </a>
-  <a href="https://www.githubtrends.io">
-    <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=classic" />
-  </a>
-  </p>
-
-
-  <p align="center">
-  <a href="https://www.githubtrends.io">
-    <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/repos?time_range=one_year&include_private=True&theme=classic" />
-  </a>
-  <a href="https://www.githubtrends.io">
-    <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=classic" />
-  </a>
+    &nbsp <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/langs?time_range=one_month&include_private=True&theme=classic" />
+    &nbsp <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/langs?time_range=one_month&include_private=True&loc_metric=changed&theme=classic" />
   </p>
 </details>
 
-### Last month contribuition graph
+<details> 
+  <summary align="center"><b><i>Full Last Six Months Details</i></b></h3></summary>
+  </br>
+  <p align="center">
+    &nbsp <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/langs?time_range=six_months&include_private=True&theme=classic" />
+    &nbsp <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/langs?time_range=six_months&include_private=True&loc_metric=changed&theme=classic" />
+  </p>
+</details>
 
-<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=aox0&bg_color=ffffff&color=000000&line=fd8c1b&point=03d3d&area=false&hide_border=true" align="center" /> </p>
+<details> 
+  <summary align="center"><b><i>Full Last Year Details</i></b></h3></summary>
+  </br>
+  <p align="center">
+    &nbsp <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/langs?time_range=one_year&include_private=True&theme=classic" />
+    &nbsp <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=classic" />
+  </p>
+</details>
+
+### Contribuitions
+
+<p align="center"><b><i>Last Year Contribuitions</i></b></h3></p>
+
+<p align="center">
+  &nbsp <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/repos?time_range=one_year&include_private=True&theme=classic" />
+  &nbsp <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=classic" />
+</p>
+
+<details> 
+  <summary align="center"><b><i>Last Six Months Details</i></b></h3></summary>
+  </br>
+  <p align="center">
+    &nbsp <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/repos?time_range=six_months&include_private=True&theme=classic" />
+    &nbsp <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/repos?time_range=six_months&include_private=True&loc_metric=changed&theme=classic" />
+  </p>
+</details>
+
+<details> 
+  <summary align="center"><b><i>Last Month Details</i></b></h3></summary>
+  </br>
+  <p align="center">
+    &nbsp <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/repos?time_range=one_month&include_private=True&theme=classic" />
+    &nbsp <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/repos?time_range=one_month&include_private=True&loc_metric=changed&theme=classic" />
+  </p>
+</details>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=aox0&bg_color=ffffff&color=000000&line=fd8c1b&point=03d3d&area=false&hide_border=true" align="center" />
+</p>
 
 <!--
 **AOx0/AOx0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
