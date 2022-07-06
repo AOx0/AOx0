@@ -79,75 +79,12 @@ This are links to <i>"stared repos lists"</i> with repositories of my own:
 
 ![](https://hit.yhype.me/github/profile?user_id=50227494)
 
-### Most used Languages
 
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AOx0&theme=default&show_icons=true&layout=compact" align="center" />
-</p>
-  
+
 <p align="center">
-  <img src="https://api.githubtrends.io/user/svg/AOx0/langs?time_range=one_year&include_private=True&compact=True&loc_metric=changed&theme=classic" align="center" />
-  &nbsp
-  <img src="https://api.githubtrends.io/user/svg/AOx0/langs?time_range=one_month&include_private=True&loc_metric=changed&compact=True&theme=classic" align="center" />
-</p>
-  
-<details> 
-  <summary align="center"><b><i>Full Last Month Details</i></b></h3></summary>
-  </br>
-  <p align="center">
     &nbsp <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/langs?time_range=one_month&include_private=True&theme=classic" />
     &nbsp <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/langs?time_range=one_month&include_private=True&loc_metric=changed&theme=classic" />
   </p>
-</details>
-
-<details> 
-  <summary align="center"><b><i>Full Last Six Months Details</i></b></h3></summary>
-  </br>
-  <p align="center">
-    &nbsp <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/langs?time_range=six_months&include_private=True&theme=classic" />
-    &nbsp <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/langs?time_range=six_months&include_private=True&loc_metric=changed&theme=classic" />
-  </p>
-</details>
-
-<details> 
-  <summary align="center"><b><i>Full Last Year Details</i></b></h3></summary>
-  </br>
-  <p align="center">
-    &nbsp <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/langs?time_range=one_year&include_private=True&theme=classic" />
-    &nbsp <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=classic" />
-  </p>
-</details>
-
-### Contribuitions
-
-<p align="center"><b><i>Last Year Contribuitions</i></b></h3></p>
-
-<p align="center">
-  &nbsp <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/repos?time_range=one_year&include_private=True&theme=classic" />
-  &nbsp <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=classic" />
-</p>
-
-<details> 
-  <summary align="center"><b><i>Last Six Months Details</i></b></h3></summary>
-  </br>
-  <p align="center">
-    &nbsp <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/repos?time_range=six_months&include_private=True&theme=classic" />
-    &nbsp <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/repos?time_range=six_months&include_private=True&loc_metric=changed&theme=classic" />
-  </p>
-</details>
-
-<details> 
-  <summary align="center"><b><i>Last Month Details</i></b></h3></summary>
-  </br>
-  <p align="center">
-    &nbsp <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/repos?time_range=one_month&include_private=True&theme=classic" />
-    &nbsp <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/repos?time_range=one_month&include_private=True&loc_metric=changed&theme=classic" />
-  </p>
-</details>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=aox0&bg_color=ffffff&color=000000&line=fd8c1b&point=03d3d&area=false&hide_border=true" align="center" />
-</p>
 
 <!--
 **AOx0/AOx0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
