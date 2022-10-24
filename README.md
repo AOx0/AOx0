@@ -32,20 +32,21 @@ I like compiled programming languajes.
   * Nothing :c 
   
 ### Most experienced in:
-  * Python
   * Rust
-  * Swift
   * C/C++
-  * C#
   * Mathematica
+  * Python
+  * Swift
+  * C#
 
 
 ### More information
 
-- **Homepage**: <https://aoxo.me>
+- **Homepage**: <https://aox0.github.io>
 - **Twitter**: [@AlecsOsornio](https://twitter.com/AlecsOsornio)
 - **LinkedIn**: [Alejandro Osornio](https://www.linkedin.com/in/aox0)
 
+<!--
 ### Projects by subject
 
 <p align="center">
@@ -76,7 +77,7 @@ This are links to <i>"stared repos lists"</i> with repositories of my own:
 </p>
  
 </div>
-
+-->
 ![](https://hit.yhype.me/github/profile?user_id=50227494)
 
 
