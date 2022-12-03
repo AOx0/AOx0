@@ -18,7 +18,7 @@
 />
 </a>
 
-Student at the Panamerican University
+Student @ Panamerican University
   
 I like compiled programming languajes.
 
