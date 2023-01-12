@@ -5,7 +5,7 @@
 
 <a href="https://github.com/AOx0">
 <img
-  src="https://github-readme-stats.vercel.app/api?username=AOx0&theme=default&show_icons=true&hide_border=true&count_private=true"
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AOx0&theme=default&show_icons=true&hide_border=true&count_private=true"
   title="AOx0 stats"
   align="right"
   width="60%"
