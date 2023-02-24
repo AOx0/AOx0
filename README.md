@@ -82,10 +82,15 @@ This are links to <i>"stared repos lists"</i> with repositories of my own:
 
 
 
+
 <p align="center">
     &nbsp <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/langs?time_range=one_month&include_private=True&theme=classic" />
     &nbsp <img align="center" src="https://api.githubtrends.io/user/svg/AOx0/langs?time_range=one_month&include_private=True&loc_metric=changed&theme=classic" />
   </p>
+<p align="center">
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AOx0&layout=compact" />
+</p>
+
 
 <!--
 **AOx0/AOx0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
